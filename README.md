@@ -1,5 +1,5 @@
 # TransformerCoreMathTutorial
-A tutorial on the core math behind the multi headed attention tranformer block 
+A tutorial on the core math behind the multi headed attention transformer block 
 
 
 GPT, as well as other LLMs and LMMs are an amazing advance in AI. But, how do they work? They all use an ML model called a transformer. Transformers allow AI to learn the complex relationships between tokens in the training data, in other words to learn the semantics, grammar, and even underlying knowledge encoded in natural language and images.
